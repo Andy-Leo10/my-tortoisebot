@@ -1,5 +1,9 @@
 # my-tortoisebot
-![alt text](pictures/image0.jpg)
+
+<p align="center">
+    <img src="pictures/image0.jpg" alt="alt text" height="300"/>
+</p>
+
 ## v1. Connect the robot from The Construct
 
 Use SSH to connect (the web platform is a computer that's not mine)
@@ -39,3 +43,16 @@ In my computer (windows without ROS) **after opening another ssh session** I'm a
 In the web platform this is rqt_graph
 
 ![alt text](pictures/image1.png)
+
+## References
+
+### RigBetel Labs
+
+[Hardware Assembly](https://github.com/rigbetellabs/tortoisebot/wiki/2.-Hardware-Assembly)
+
+[ROS Noetic](https://github.com/rigbetellabs/tortoisebot/wiki/4.-ROS-Noetic)
+
+[ROS Galactic](https://github.com/rigbetellabs/tortoisebot/wiki/5.-ROS2)
+
+[Custom Image with ROSs](https://github.com/rigbetellabs/tortoisebot/wiki/Custom-Image-Flash)
+
